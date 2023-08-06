@@ -4,4 +4,6 @@ b = 1
 c = 'Hello'
 d = 'World'
 print(c, d)
-print(a + b)
+
+if a > b:
+  print(a + b)
