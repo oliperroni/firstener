@@ -7,3 +7,5 @@ print(c, d)
 
 if a > b:
   print(a + b)
+else:
+  print('no')
