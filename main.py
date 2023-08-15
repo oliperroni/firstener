@@ -17,3 +17,5 @@ n2 = 2
 print(n1 / n2)
 
 n3 = n1 + n2
+
+snew = string + string_add
