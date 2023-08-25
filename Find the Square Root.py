@@ -1,3 +1,5 @@
+import cmath
+
 num = 8 
 
 # To take the input from the user
@@ -8,7 +10,7 @@ print('The square root of %0.3f is %0.3f'%(num ,num_sqrt))
 
 # Find square root of real or complex numbers
 # Importing the complex math module
-import cmath
+
 
 num = 1+2j
 
