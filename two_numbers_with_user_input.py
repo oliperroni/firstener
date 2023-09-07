@@ -6,4 +6,4 @@ num2 = input('Enter second number: ')
 sum = float(num1) + float(num2)
 
 # Display the sum
-print(f'The sum of {num1} and {num2} is {2}'.format(num1, num2, sum))
+print(f'The sum of {num1} and {num2} is {sum}'.format(num1, num2, sum))
