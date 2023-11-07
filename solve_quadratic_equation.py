@@ -3,7 +3,7 @@
 # import complex math module
 import cmath
 
-a = 4
+a = 10
 b = 6
 c = 12
 
