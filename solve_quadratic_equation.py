@@ -5,7 +5,7 @@ import cmath
 
 a = 10
 b = 16
-c = 12
+c = 20
 
 # calculate the discriminant
 d = (b ** 2) - (4 * a * c)
