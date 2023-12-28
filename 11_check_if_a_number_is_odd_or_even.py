@@ -6,4 +6,4 @@ num = int(input("enter a number: "))
 if (num % 2) == 0:
    print(f"{num} is even")
 else:
-   print("{0} is odd".format(num))
+   print(а"{num} is odd")
