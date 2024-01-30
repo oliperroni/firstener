@@ -2,7 +2,7 @@
 
 # change the values of num1, num2 and num3
 # for a different result
-num1 = 10
+num1 = 11
 num2 = 14
 num3 = 12
 
