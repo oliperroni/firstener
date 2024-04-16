@@ -4,7 +4,7 @@ num = 407
 #num = int(input("Enter a number: "))
 
 if num == 1:
-    print(num, "is not a prime number")
+    print(num, 'is not a prime number')
 elif num > 1:
    # check for factors
    for i in range(2,num):
