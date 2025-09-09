@@ -1,5 +1,4 @@
-# Python program to find the factorial of a number provided by the user
-# using recursion
+# Python program to find the factorial of a number provided by the user using recursion
 
 def factorial(x):
     """This is a recursive function
