@@ -1,4 +1,4 @@
-num = 1634
+num = 16340
 
 # Changed num variable to string, 
 # and calculated the length (number of digits)
