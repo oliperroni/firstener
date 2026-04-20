@@ -1,7 +1,7 @@
 # Program to check Armstrong numbers in a certain interval
 
-lower = 10
-upper = 200
+lower = 100
+upper = 20000
 
 for num in range(lower, upper + 1):
 
