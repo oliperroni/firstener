@@ -3,7 +3,7 @@
 num = 250
 
 if num < 0:
-   print("Enter a positive number")
+   print('Enter a positive number')
 else:
    sum = 0
    # use while loop to iterate until zero
