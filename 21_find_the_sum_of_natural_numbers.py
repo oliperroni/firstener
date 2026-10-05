@@ -1,6 +1,6 @@
 # Sum of natural numbers up to num
 
-num = 250
+num = 2500
 
 if num < 0:
    print('Enter a positive number')
@@ -10,4 +10,4 @@ else:
    while(num > 0):
        sum += num
        num -= 1
-   print("The sum is", sum)
+   print('The sum is', sum)
